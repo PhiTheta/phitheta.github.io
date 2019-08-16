@@ -2,8 +2,8 @@ title: Curiosity
 description: exploring the unknown!
 google_analytics: 
 show_downloads: true
-#theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes@4.16.5"
+theme: jekyll-theme-minimal
+#remote_theme: "mmistakes/minimal-mistakes@4.16.5"
 
 gems:
   - jekyll-mentions
